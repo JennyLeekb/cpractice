@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550641153 source:c:\users\lkb\desktop\新建文件夹\cpractice\cpractice11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
